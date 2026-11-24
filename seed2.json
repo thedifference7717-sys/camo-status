@@ -2,11 +2,13 @@
  "feed": "camo-seal-watch/1",
  "network": "stagenet",
  "seed": "seed2",
- "status": "OK",
- "updated": 1795539169,
- "updated_utc": "2026-11-24T16:52:49Z",
- "until": null,
- "reasons": [],
- "height": 16942,
- "advice": "normal"
+ "status": "HOLD",
+ "updated": 1795539409,
+ "updated_utc": "2026-11-24T16:56:49Z",
+ "until": 1795546609,
+ "reasons": [
+  "DRILL: a test of the Seals' alarm and HOLD flag, not a real problem"
+ ],
+ "height": 16947,
+ "advice": "do not credit CAMO deposits until this clears"
 }
