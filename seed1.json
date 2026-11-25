@@ -3,10 +3,10 @@
  "network": "stagenet",
  "seed": "seed1",
  "status": "OK",
- "updated": 1795641958,
- "updated_utc": "2026-11-25T21:25:58Z",
+ "updated": 1795643765,
+ "updated_utc": "2026-11-25T21:56:05Z",
  "until": null,
  "reasons": [],
- "height": 18610,
+ "height": 18632,
  "advice": "normal"
 }
